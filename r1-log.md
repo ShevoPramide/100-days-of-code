@@ -5,9 +5,9 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 ## Log
 
 ### R1D20 
-1-start #0Days of code on HackerRank.com and finished the first easy challenge.
- 
-
+1-start the 0 Day of code on HackerRank.com and finished the first easy challenge.
+2-finished learning menus and toolbars with PyQt5 from zetcode website. 
+3-
 
 
 #R1D22
