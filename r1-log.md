@@ -6,15 +6,16 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D20 
 1-start the 0 Day of code on HackerRank.com and finished the first easy challenge.
-2-finished learning menus and toolbars with PyQt5 from zetcode website. 
-3-
-
+2-finished learning menus and toolbars with PyQt5 from zetcode website.
 
 #R1D22
 ===========
+1- Today i finished the Day 1 challenge on hackerrank.
+2- i read an article about python (personal experience) on Medium and shared my first book_dl script. :)
 
 #R1D23
 ===========
+Not Doing alot, just wrote a script to check for any updated version of foxitreader (web scraping). I think the main outcome of this mini project is that i finished it when the idea come to my thought :)
 
 #R1D24
 ===========
